@@ -1,1 +1,13 @@
-
+{
+  "business_name": "Your Business Name",
+  "hours": "Mon-Sat 9am-6pm, closed Sundays",
+  "location": "123 Example Street",
+  "delivery": "Yes, within 5 miles",
+  "faqs": {
+    "hours": "hours,open,close,time",
+    "location": "where,address,located",
+    "delivery": "deliver,delivery,shipping",
+    "pricing": "price,cost,how much"
+  },
+  "fallback": "Thanks for reaching out! We'll get back to you shortly."
+}
